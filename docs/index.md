@@ -5,6 +5,14 @@ description: "This tutorial shows how to register for a JSTOR account and use th
 staff:
     - name: Nick Field
       link: https://library.utoronto.ca/staff/nick-field
+maintainer: 
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
+    - name: Neil Aitken
+      link: https://library.utoronto.ca/staff/neil-aitken
+    - name: Kara Handren
+      link: https://library.utoronto.ca/staff/kara-handren
+
 created_date: 2025-06-25
 permalink: "/"  #! Remove this if not the homepage
 ---
@@ -46,4 +54,4 @@ Resources for using JSTOR Text Analysis
 * Additional [Jupyter notebooks from the Text Analysis Pedagogy Institute](https://constellate.org/docs/tap-institute-lessons) (TAPI)
 * Access [training videos](https://www.youtube.com/@Constellate_org)
 
-Technique: [Text and Data Mining](/technique/text-and-data-mining) | Tools: [Python](/tools/python)
+Technique: [Text and Data Mining](https://mdl.library.utoronto.ca/technique/text-and-data-mining) | Tools: [Python](https://mdl.library.utoronto.ca/tools/python)
