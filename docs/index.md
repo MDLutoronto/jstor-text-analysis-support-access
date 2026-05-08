@@ -53,3 +53,5 @@ Resources for using JSTOR Text Analysis
 * Older [Constellate Jupyter notebooks](https://github.com/ithaka/constellate-notebooks)
 * Additional [Jupyter notebooks from the Text Analysis Pedagogy Institute](https://constellate.org/docs/tap-institute-lessons) (TAPI)
 * Access [training videos](https://www.youtube.com/@Constellate_org)
+
+**Technique:** [Text and Data Mining](https://mdlutoronto.github.io/tutorials-search/?technique=Text+and+Data+Mining) \| **Tools:** [Python](https://mdlutoronto.github.io/tutorials-search/?tool=Python)
