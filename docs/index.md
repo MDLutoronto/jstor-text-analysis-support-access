@@ -2,18 +2,17 @@
 title: "Accessing JSTOR Text Analysis Support"
 layout: "home"
 description: "This tutorial shows how to register for a JSTOR account and use the JSTOR Text Analysis tools, which replace the now-ended Constellate platform."
+created_date: 2025-06-25
 staff:
     - name: Nick Field
       link: https://library.utoronto.ca/staff/nick-field
-maintainer: 
-    - name: Nick Field
-      link: https://library.utoronto.ca/staff/nick-field
-    - name: Neil Aitken
-      link: https://library.utoronto.ca/staff/neil-aitken
+maintainer:
     - name: Kara Handren
       link: https://library.utoronto.ca/staff/kara-handren
-
-created_date: 2025-06-25
+    - name: Neil Aitken
+      link: https://library.utoronto.ca/staff/neil-aitken
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
 permalink: "/"  #! Remove this if not the homepage
 ---
 
@@ -27,7 +26,6 @@ Register for a JSTOR account
 ----------------------------
 
 1. If you are off-campus, connect via VPN so that Constellate recognizes that you are associated with the University of Toronto. For more info on connecting via VPN, please see the following: [UTORvpn.](https://onesearch.library.utoronto.ca/ic-faq-categories/utorvpn)
-
 2. Go to the [JSTOR homepage](https://www.jstor.org/).
 
 3. Click on "Log in" at the top right.  
@@ -53,3 +51,5 @@ Resources for using JSTOR Text Analysis
 * Older [Constellate Jupyter notebooks](https://github.com/ithaka/constellate-notebooks)
 * Additional [Jupyter notebooks from the Text Analysis Pedagogy Institute](https://constellate.org/docs/tap-institute-lessons) (TAPI)
 * Access [training videos](https://www.youtube.com/@Constellate_org)
+
+Technique: [Text and Data Mining](https://mdlutoronto.github.io/tutorials-search/?technique=Text+and+Data+Mining) | Tools: [Python](https://mdlutoronto.github.io/tutorials-search/?tool=Python)
